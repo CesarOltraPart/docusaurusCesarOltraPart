@@ -30,6 +30,7 @@
 1. [Github](https://cesaroltrapart.github.io/intermodular06Cesar)
 2. [Vercel](https://intermodular06-cesar.vercel.app/)
 3. [Netlify](https://vermillion-faloodeh-3a9904.netlify.app/)
-| Github | Vercel | Netlify |
+
+|Github|Vercel|Netlify|
 |:-----:|:-------:|:-------:|
 | ![1](../../static/img/github.jpg) | ![2](../../static/img/vercel1868.jpg) |![3](../../static/img/netlify.jpg) |
