@@ -101,6 +101,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            to: 'benvinguda-cesar',
+            label: 'Benvinguda',
+            position: 'left',
+          },
         ],
       },
       footer: {
